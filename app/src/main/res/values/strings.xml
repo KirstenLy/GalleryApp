@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="next_button">NextButton</string>
+    <string name="camera_active_button">Take a photo</string>
+    <string name="open_gallery_button">Go to the gallery</string>
+    <string name="delete_image_button">Delete</string>
+    <string name="delete_selected_image_button">Delete selected images</string>
+    <string name="yes_dialog">Yes</string>
+    <string name="no_dialog">No</string>
+</resources>
